@@ -1,0 +1,22 @@
+{
+  "name": "JSONLD",
+  "version": "0.1.0",
+  "summary": "A short description of JSONLD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/JSONLD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chris Downie": "cdownie@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/JSONLD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSONLD/Classes/**/*"
+}
