@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JSONLD_Tests' do
+  pod 'JSONLD', :path => '../'
+  
+  
+end
